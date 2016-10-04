@@ -1,2 +1,4 @@
 # hello-world
-Myy first repo 
+My first repo 
+
+Made a few changes here.
